@@ -1,3 +1,7 @@
+[![make.fun · desk-pvsnp-20261125](https://make.fun/badge/desk-pvsnp-20261125.svg)](https://make.fun/bounty/desk-pvsnp-20261125)
+[![rank](https://make.fun/badge/desk-pvsnp-20261125/pantronux-shadows/desk-pvsnp-20261125/rank.svg)](https://make.fun/bounty/desk-pvsnp-20261125/leaderboard)
+[![reward](https://make.fun/badge/desk-pvsnp-20261125/pantronux-shadows/desk-pvsnp-20261125/reward.svg)](https://make.fun/bounty/desk-pvsnp-20261125)
+
 # The P vs NP desk: a round's entry
 
 This is the whole entry for a round of the P vs NP desk on make.fun: one file, `DESK.json`, naming the campaign the
